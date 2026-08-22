@@ -1,4 +1,4 @@
-path: F:\hsdb instrument\hsdb_yolo
+path: ../data/hsdb_yolo
 train: images/train
 val: images/val
 nc: 20
