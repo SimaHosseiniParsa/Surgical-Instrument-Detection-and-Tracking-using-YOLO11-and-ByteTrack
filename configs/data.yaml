@@ -1,0 +1,25 @@
+path: F:\hsdb instrument\hsdb_yolo
+train: images/train
+val: images/val
+nc: 20
+names:
+- AtraumaticGrasper
+- Baxter
+- CadiereForceps
+- ClipApplier(Hem-O-Lok)
+- ClipApplier(Metal)
+- CovidienUltrasonic
+- CurvedAtraumaticGrasper
+- Electrichook
+- HarmonicAce
+- MarylandBipolarForceps
+- Medium-LargeClipApplier
+- Needle
+- Needle-holder
+- Overholt
+- Scissors
+- SmallClipApplier
+- Specimanbag
+- Stapler
+- Suction-Irrigation
+- Tube
