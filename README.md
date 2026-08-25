@@ -197,8 +197,10 @@ The tracking output is provided for qualitative visualization. Multi-object trac
 
 Clone the repository:
 
-`git clone https://github.com/SimaHosseiniParsa/Surgical-Instrument-Detection-and-Tracking-using-YOLO11-and-ByteTrack.git
-cd Surgical-Instrument-Detection-and-Tracking-using-YOLO11-and-ByteTrack`
+```bash
+git clone https://github.com/SimaHosseiniParsa/Surgical-Instrument-Detection-and-Tracking-using-YOLO11-and-ByteTrack.git
+cd Surgical-Instrument-Detection-and-Tracking-using-YOLO11-and-ByteTrack
+```
 
 Create and activate a virtual environment:
 
