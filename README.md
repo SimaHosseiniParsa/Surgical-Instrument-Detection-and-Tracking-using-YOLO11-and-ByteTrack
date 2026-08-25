@@ -3,7 +3,6 @@
 </p>
 
 # Surgical-Instrument-Detection-and-Tracking-using-YOLO11-and-ByteTrack
-Surgical Instrument Detection and Tracking using YOLO11 and ByteTrack
 
 ## Overview
 
